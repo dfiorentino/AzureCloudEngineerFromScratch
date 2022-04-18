@@ -32,3 +32,11 @@ Azure AD handle two different types of groups:
 - <strong>Security Groups:</strong> Security groups are used to manage member and computer access to shared resources for a group of users
 
 - <strong>Microsoft 365 Groups:</strong> Microsoft 365 groups provide collaboration opportunities by giving members access to a shared mailbox, calendar, files, SharePoint site, and more
+
+**Group Membership**
+
+# Administrative Units
+
+# Guest Accounts
+
+# Role-Based Account Control
