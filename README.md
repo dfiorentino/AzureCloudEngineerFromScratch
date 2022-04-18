@@ -12,6 +12,7 @@ and practices/exercise, so stay tuned for more...
 - Azure Cloud Shell
 - Azure PowerShell
 - Azure CLI
+- Azure Resource Manages
 - ARM Templates
  
 <strong>2. Azure Active Directory</strong>
@@ -26,3 +27,4 @@ and practices/exercise, so stay tuned for more...
 - Reources Groups
 - Resource Locks and Tags
 - Cost Management
+- Resource Limits

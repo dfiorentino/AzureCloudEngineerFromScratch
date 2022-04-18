@@ -23,3 +23,9 @@ Azure CLI is a cross-platform command line program to manage the Azure resource(
 You can use Azure Powershell through:
 - Azure Cloud Shell
 - Local Installation (Windows, MacOS or Linux)
+
+# What is Azure Resource Manager (ARM) ¿?
+
+Is the service that Azure uses to deploy and manage the resources, through a management layer that allows to create, update, and delete resources.
+
+<img src="./assets/arm.png" alt="ARM" title="ARM">
