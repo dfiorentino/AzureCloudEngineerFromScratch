@@ -2,7 +2,8 @@
 
 The purpose of this repo is to provide a list of projects related to <strong>Microsoft Azure</strong> to help people to gain knowledge about Azure Cloud Services.
 
-This content will be update on weekly basis, so stay tuned for more...
+This content is based on the skills outline for the AZ104 exam. Every week we are going to upload more content about basic concepts, definitions, how-to 
+and practices/exercise, so stay tuned for more...
 
 # Basic - Content (Level 100)
 
@@ -10,6 +11,7 @@ This content will be update on weekly basis, so stay tuned for more...
 - Azure Portal
 - Azure Cloud Shell
 - Azure PowerShell
+- ARM Templates
  
 <strong>2. Azure Active Directory</strong>
 - User and Groups
