@@ -36,7 +36,7 @@ Retrieve a list of all RG:
 
 Create a Resource Group:
 <p><code>az group create -l eastus -n rg-lab-eastus</code></p>
-<!-- -l (--location) and -n (--name)>
+<!-- -l (--location) and -n (--name)-->
 
 Create a Virtual Machine:
 <p><code>az vm create --resource-group rg-lab-eastus --name vm-lab-eastus --image Win2019DataCenter --public-ip-sku Standard --admin-username azurerootuser</code></p>
