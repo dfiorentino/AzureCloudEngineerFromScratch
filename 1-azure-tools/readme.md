@@ -28,4 +28,4 @@ You can use Azure Powershell through:
 
 Is the service that Azure uses to deploy and manage the resources, through a management layer that allows to create, update, and delete resources.
 
-<img src="./assets/arm.png" alt="ARM" title="ARM">
+<img src="../assets/arm.png" alt="ARM" title="ARM">
