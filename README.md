@@ -11,6 +11,7 @@ and practices/exercise, so stay tuned for more...
 - Azure Portal
 - Azure Cloud Shell
 - Azure PowerShell
+- Azure CLI
 - ARM Templates
  
 <strong>2. Azure Active Directory</strong>
