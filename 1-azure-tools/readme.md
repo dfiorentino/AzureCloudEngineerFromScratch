@@ -30,3 +30,22 @@ Is the service that Azure uses to deploy and manage the resources, through a man
 
 <p align=center>
 <img src="../assets/arm.png" alt="ARM" title="ARM"> </p>
+
+# Azure Resource Manager (ARM) Templates ¿?
+
+Is a block/piece of code based on JSON (JavaScript Object Notation) that define the infrastructure resources and configuration for a proyect or deployment.
+
+The ARM Templates file contains various key-value pairs in the JSON format. For example, below, you can see a format of an ARM Templates.
+
+{
+"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+"contentVersion": "1.0.0",
+"parameters":{},
+"variables":{},
+"functions":[],
+"resources": [],
+"outputs":{}
+}
+
+For more information about ARM Templates, follow the next link:
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
