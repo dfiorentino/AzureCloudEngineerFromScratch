@@ -1,6 +1,6 @@
 # What is Azure Portal ¿?
 
-Azure Portal is the Graphic Unit Interface (GUI) that allow manage all the resources in a unified console.
+Azure Portal is the Graphic Unit Interface (GUI) that allow you to manage all the resources in an unified console.
 
 # What is Azure Cloud Shell ¿?
 
