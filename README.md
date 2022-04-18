@@ -19,7 +19,7 @@ and practices/exercise, so stay tuned for more...
 - Guest Accounts
 - Role-Based Access Control (RBAC)
 
-<strong>3. Subscriptions Governance</strong>
+<strong>3. Subscriptions & Governance</strong>
 - Management Groups
 - Subscriptions
 - Reources Groups
