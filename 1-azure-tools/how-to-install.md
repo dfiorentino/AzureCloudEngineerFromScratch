@@ -21,7 +21,7 @@ For Windows we need to download and execute a MSI file.
 
 To download Azure CLI for Windows, click here: https://aka.ms/installazurecliwindows and follow the instructions.
 
-Run az --version after the installation process to see if works.
+Run az --version from PowerShell or CMD after the installation process to see if works.
 
 # How to install Azure PowerShell
 
