@@ -35,7 +35,15 @@ Azure AD handle two different types of groups:
 
 **Group Membership**
 
+There are three ways that you can use to assign access rights:
+
+- <strong>Assigned:</strong> allow only add speficic users to be member of this particular group.
+- <strong>Dynamic User:</strong> allow to use a dynamic rules to automatically add or remove members, in this cases users only.
+- <strong>Dynamic Device:</strong> allow to use a dynamic rules to automatically add or remove members, in this cases devices only.
+
 # Administrative Units
+
+Administrative units allow an organization to grant admin permissions that are restricted to a department, region, or any other segment of the organization that you define. An administrative unit can contain only users and groups
 
 # Guest Accounts
 
