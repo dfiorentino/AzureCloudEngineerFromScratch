@@ -45,6 +45,19 @@ There are three ways that you can use to assign access rights:
 
 Administrative units allow an organization to grant admin permissions that are restricted to a department, region, or any other segment of the organization that you define. An administrative unit can contain only users and groups
 
+<p align=center>
+<img src="../assets/aad-au.png" alt="Administrative Units" title="Administrative Units"> </p>
+
 # Guest Accounts
 
-# Role-Based Account Control
+<strong>Azure AD External Identities</strong> allows people (partners, vendors, collaborators, etc) outside the organization to access apps and resources inside our Azure AD Tenant letting them sign in using any identity they prefer.
+
+<p align=center>
+<img src="../assets/external-identities.png" alt="Azure AD External Identities" title="Azure AD External Identities"> </p>
+
+# Role-Based Account Control (RBAC)
+
+RBAC helps any organization to manage who has access to the Azure Resources, what they can do with those resources, and what areas they have access to. Basically is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure Resources.
+
+<p align=center>
+<img src="../assets/rbac-overview.png" alt="RBAC" title="RBAC"> </p>
