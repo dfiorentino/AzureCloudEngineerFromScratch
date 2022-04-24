@@ -1,6 +1,6 @@
 # Basic Level - Exercises
 
-**Exercise #1:**
+<p>**Exercise #1:**</p>
 Company LTD is the retail business and they have recently created a Software Factory department to be responsible for the software development process of the company. 
 
 His first task is to be able to use an environment in Microsoft Azure to deployment all the resources that they need for his daily develop and maintain process and for that they need the assistance for the IT department (Cloud Engineering Section).
