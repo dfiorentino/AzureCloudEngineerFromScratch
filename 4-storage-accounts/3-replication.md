@@ -34,9 +34,9 @@ Azure Storage offers two options for copying your data to a secondary region:
 # Durability and Availability Parameters
 
 <p align=center>
-<img src="../assets/storagereplication1.png" alt="Storage Replication" title="Storage Replication"> </p>
+<img src="../assets/storagereplication1.PNG" alt="Storage Replication" title="Storage Replication"> </p>
 
 # Durability and Availability by Outage Scenario
 
 <p align=center>
-<img src="../assets/storagereplication2.png" alt="Outage Scenario" title="Outage Scenario"> </p>
+<img src="../assets/storagereplication2.PNG" alt="Outage Scenario" title="Outage Scenario"> </p>
